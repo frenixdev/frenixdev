@@ -22,7 +22,6 @@
  ---
 
  ## Projects:
- - All live links: https://frenixdev.github.io/proects
- - <p color="grey"> Visit this link to get all the projects that are live. </p>
+ - All live links: https://frenixdev.github.io/projects
  ---
 <p align="center">Thanks for visiting.</p>
