@@ -58,4 +58,3 @@ A self-taught web developer chasing freedom through Code, Consistency, and Curio
  Taking my time to build things the right way🌿</p>
 </div>
 
-</div>
