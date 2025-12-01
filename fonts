@@ -1,7 +1,29 @@
-  // Inter
-  // Manrope
-  // Plus Jakarta Sans
-  // JetBrains Mono
-  // Fira Code
-  // Playwrite NO
-  // Poppins
+<style>
+
+p{
+    font-family: "manrope";
+    letter-spacing: 2px;
+}
+h1 {
+  text-align: center;
+  font-family: "poppins";
+  font-weight: 300;
+}
+h1 strong{
+  font-family: "playwrite no";
+}
+li{
+  font-size: 1rem; letter-spacing: 1px; font-family: "poppins"; font-weight: 200; line-height: 1.6;
+}
+.bold{
+  font-weight: 500;
+}
+h2{
+  font-family: "jetbrains mono"
+}
+.outro{
+  text-align: center;
+  font-family: "playwrite no";
+  font-size: 1.3rem;
+}
+  </style>
