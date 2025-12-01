@@ -54,6 +54,6 @@ A self-taught web developer chasing freedom through Code, Consistency, and Curio
 <p align="center">
 <img src="https://media.tenor.com/WwNg-cNi-BwAAAAi/one-piece-hat-luffy-hat.gif" width="300px" >
 </p>
-<p align="center"> `Taking my time to build things the right way🌿`</p>
+<p align="center"> ___Taking my time to build things the right way🌿___</p>
 
 
