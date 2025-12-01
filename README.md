@@ -1,4 +1,4 @@
-<div style="padding-left: 30px;">
+
 <h1 align="center" >👋 Hi, I'm <strong>Frenix</strong></h1>
 <p align="center" ><strong >Learned to dream from a pirate.</strong></p>
 
@@ -27,7 +27,6 @@ A self-taught web developer chasing freedom through Code, Consistency, and Curio
 - _Consistent daily coding_
 - _Improving one small thing at a time_
 
-</ul>
 <br>
 
  <h2> 💻 Tech Stack </h2>
@@ -54,7 +53,7 @@ A self-taught web developer chasing freedom through Code, Consistency, and Curio
 
 <p align="center">
 <img src="https://media.tenor.com/WwNg-cNi-BwAAAAi/one-piece-hat-luffy-hat.gif" width="300px" >
-<br>
- Taking my time to build things the right way🌿</p>
-</div>
+</p>
+<p align="center"> `Taking my time to build things the right way🌿`</p>
+
 
