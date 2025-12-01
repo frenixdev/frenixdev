@@ -1,27 +1,88 @@
-<h1 align="center">👋 Hi, I'm <strong>Frenix</strong></h1>
-<p align="center">A Web Developer focused on building clean, structured, and user-friendly interfaces.</p>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Manrope:wght@200..800&family=Playwrite+NO:wght@100..400&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:wght@200;300;400;500&display=swap');
+p{
+    font-family: "manrope";
+    letter-spacing: 2px;
+}
+h1 {
+  text-align: center;
+  font-family: "poppins";
+  font-weight: 300;
+}
+h1 strong{
+  font-family: "playwrite no";
+}
+li{
+  font-size: 1rem;
+  letter-spacing: 1px;
+  font-family: "poppins";
+  font-weight: 200;
+  line-height: 1.6
+}
+.bold{
+  font-weight: 500;
+}
+h2{
+  font-family: "jetbrains mono"
+}
+.outro{
+  text-align: center;
+  font-family: "playwrite no";
+  font-size: 1.3rem;
+}
+  </style>
+<h1 >👋 Hi, I'm <strong>Frenix</strong></h1>
+<p align="center"><strong>Learned to dream from a pirate.</strong></p>
 
----
-## 📌 About Me
-- Currently improving my skills in **React**, **Tailwind CSS**, and **frontend architecture**
-- Learning **GSAP** to create smooth and consistent UI animations
-- Interested in performance, DRY code, and modern web development practices
-- Working on building a solid foundation through small, practical projects
---- 
+<p align="center">
+A self-taught web developer chasing freedom through Code, Consistency, and Curiosity.
+</p>
+<p align="center">
+  <img src="https://media1.tenor.com/m/EYm6p5Jm-1gAAAAd/luffy-smiling-one-piece.gif" width="420" />
+</p>
 
+ <h2> 📌  About Me </h2>
 
+<ul>
+<li>Self-taught web developer learning by building real projects </li>
+<li>Focused on <span class="bold">React</span>, <span class="bold">Tailwind CSS</span>, and frontend architecture</li>
+<li> No shortcuts. No backup plan. Just forward. </li>
+</ul>
+  <br>
+  <br>
 
+> _Dreams don’t need defending to be real._
 
-## 🌐 Socials:
+## 🧭 Hobbies
+
+- Anime & storytelling (One Piece)
+- Consistent daily coding
+- Improving one small thing at a time
+
+<br>
+
+## 💻 Tech Stack
+
+- HTML, CSS, JavaScript
+- React, Next.js, Redux
+- Tailwind CSS, GSAP
+- Node.js, Express
+
+<br>
+
+## 🌐 Socials
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users//himangshu0960) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_frenix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himangshu-frenixdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/frenixdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himangshu.codespace@gmail.com)
 
+<br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+## 🧭 Projects
 
- ---
+[![Live Projects](https://img.shields.io/badge/Live%20Projects-Explore-black?style=for-the-badge&logo=vercel)](https://frenixdev.github.io/projects)
 
- ## Projects:
- - All live links: https://frenixdev.github.io/projects
- ---
-<p align="center">Thanks for visiting.</p>
+<br>
+
+<p class="outro">
+<img src="https://media.tenor.com/WwNg-cNi-BwAAAAi/one-piece-hat-luffy-hat.gif" width="300px" >
+<br>
+Taking my time to build things the right way.</p>
