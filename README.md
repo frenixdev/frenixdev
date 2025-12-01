@@ -18,7 +18,7 @@ A self-taught web developer chasing freedom through Code, Consistency, and Curio
   <br>
 
 
-> _Dreams don’t need defending to be real._
+> _Dreams don’t need defending to be real ✍︎_
 
  <h2 style='  font-family: "jetbrains mono"'>🧭 Hobbies </h2>
 
