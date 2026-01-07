@@ -56,7 +56,7 @@ A self-taught web developer chasing freedom through Code, Consistency, and Curio
 </p>
 <p align="center"> Taking my time to build things the right way🌿
 <br>
-   ───────────────────୨ৎ───────────────────
+   ──────────────୨ৎ──────────────
 </p>
 
 
